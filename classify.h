@@ -1,0 +1,1 @@
+int classify(double avg_score, int conduct);
